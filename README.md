@@ -35,3 +35,5 @@ Este repositório está público. Qualquer pessoa pode visualizar seu conteúdo.
 Os arquivos deste repositório constituem o material-base. Convites aceitos, contribuições individuais, commits, revisão, pull request e merge só devem ser marcados como concluídos depois de realizados e conferidos no GitHub. As evidências devem ser capturas reais feitas pelo grupo.
 
 **Professora:** o enunciado indica o perfil [@elianeribeiro](https://github.com/elianeribeiro).
+
+Conferido Profa. Eliane Ribeiro
