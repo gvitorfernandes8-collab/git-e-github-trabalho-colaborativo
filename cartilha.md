@@ -1,8 +1,8 @@
-# Cartilha digital: primeiros passos com Git e GitHub
+# Cartilha digital: Primeiros passos com Git e GitHub
 
-**Público-alvo:** pessoas iniciantes.  
-**Objetivo:** criar um repositório, organizar arquivos, registrar alterações e colaborar pelo navegador.  
-**Conhecimentos necessários:** navegação na internet e edição básica de texto. Não é necessário instalar programas nem usar o terminal.
+**Público-alvo:** Pessoas iniciantes.  
+**Objetivo:** Criar um repositório, organizar arquivos, registrar alterações e colaborar pelo navegador.  
+**Conhecimentos necessários:** Navegação na internet e edição básica de texto. Não é necessário instalar programas nem usar o terminal.
 
 **Autores:** Vitor Gomes Fernandes, Gustavo Kenji Noguchi e Bianca Souza Ferreira.
 
@@ -14,7 +14,7 @@ Ao final, você deverá conseguir explicar Git e GitHub, criar um repositório p
 
 ### Git e GitHub
 
-**Git** é um sistema distribuído de controle de versão: registra alterações em arquivos e permite consultar versões anteriores. **GitHub** é uma plataforma on-line que hospeda repositórios Git e oferece recursos para compartilhar projetos, revisar contribuições e colaborar. Em resumo: Git controla as versões; GitHub oferece um espaço on-line para hospedar e colaborar.
+**Git** é um sistema distribuído de controle de versão: Registra alterações em arquivos e permite consultar versões anteriores. **GitHub** é uma plataforma on-line que hospeda repositórios Git e oferece recursos para compartilhar projetos, revisar contribuições e colaborar. Em resumo: Git controla as versões; GitHub oferece um espaço on-line para hospedar e colaborar.
 
 ### Repositório
 
@@ -22,8 +22,8 @@ Um **repositório** (ou *repo*) reúne os arquivos de um projeto e o histórico 
 
 ### Público ou privado?
 
-- **Público:** qualquer pessoa pode visualizar o conteúdo.
-- **Privado:** somente o proprietário e as pessoas autorizadas podem acessar.
+- **Público:** Qualquer pessoa pode visualizar o conteúdo.
+- **Privado:** Somente o proprietário e as pessoas autorizadas podem acessar.
 
 Antes de publicar, verifique se não há senhas, tokens, códigos de autenticação, documentos pessoais ou dados de terceiros. Neste trabalho, o repositório está público: revisem tudo antes de enviar novos arquivos.
 
@@ -59,9 +59,9 @@ Um **commit** é um registro de uma alteração no repositório, identificado po
 
 ### Branch, pull request e merge
 
-- **Branch:** linha de trabalho independente da principal. Permite experimentar mudanças sem alterar imediatamente a versão principal.
-- **Pull request (PR):** proposta para incorporar as mudanças de uma branch em outra. Permite comparar arquivos, conversar e revisar antes da integração.
-- **Merge:** integração das alterações propostas na branch de destino, depois da revisão e das verificações necessárias.
+- **Branch:** Linha de trabalho independente da principal. Permite experimentar mudanças sem alterar imediatamente a versão principal.
+- **Pull request (PR):** Proposta para incorporar as mudanças de uma branch em outra. Permite comparar arquivos, conversar e revisar antes da integração.
+- **Merge:** Integração das alterações propostas na branch de destino, depois da revisão e das verificações necessárias.
 
 ## 3. Primeiros passos pelo navegador
 
