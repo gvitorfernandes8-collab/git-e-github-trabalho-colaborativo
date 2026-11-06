@@ -15,7 +15,7 @@ Cada integrante deve abrir o repositório pela própria conta e confirmar se con
 | Integrante | Usuário GitHub | Convite aceito? | Conseguiu abrir/editar? |
 |---|---|---|---|
 | Vitor Gomes Fernandes | gvitorfernandes8-collab | Proprietário | [testar] |
-| Gustavo Kenji Noguti | [gustavokenjinoguti | [sim] | [sim] |
+| Gustavo Kenji Noguti | [gustavokenjinoguti] | [sim] | [sim] |
 | Bianca Souza Ferreira | [briferreira] | [sim] | [sim] |
 | Professora (@elianeribeiro) | [sim] | [sim] | [sim] |
 
