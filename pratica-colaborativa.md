@@ -46,4 +46,4 @@ Fluxo sugerido: Gustavo cria `melhoria-guia` a partir de `main`, melhora uma dic
 - [ ] `04-pull-request.png` — branch, comparação e revisão do pull request.
 - [ ] `05-merge.png` — pull request mesclado e mudança visível em `main`.
 
-
+Conferido - Profa Eliane
