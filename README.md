@@ -12,8 +12,9 @@
 
 1. [Cartilha digital](cartilha.md) — conceitos e tutorial passo a passo.
 2. [Prática colaborativa](pratica-colaborativa.md) — roteiro para testar compartilhamento, commits, branch, pull request, revisão e merge.
-3. [Registro de uso da IA](registro-ia.md) — prompts, conferência e limites.
-4. [Pasta de evidências](images/LEIA-ME.md) — instruções para adicionar capturas reais.
+3. [Guia prático de melhoria colaborativa](guia-melhoria-colaborativa.md) — fluxo detalhado de branch, commit, PR, revisão, conflitos e merge.
+4. [Registro de uso da IA](registro-ia.md) — prompts, conferência e limites.
+5. [Pasta de evidências](images/LEIA-ME.md) — instruções para adicionar capturas reais.
 
 ## Organização sugerida
 
