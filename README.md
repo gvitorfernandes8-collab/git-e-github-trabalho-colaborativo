@@ -5,6 +5,7 @@
 - Vitor Gomes Fernandes
 - Gustavo Kenji Noguchi
 - Bianca Souza Ferreira
+- Nathan André Silva
 
 **Objetivo:** ensinar uma pessoa iniciante a compreender Git e GitHub e a realizar, pelo navegador, tarefas básicas de criação de repositório, edição de arquivos, commits e colaboração.
 
@@ -21,6 +22,7 @@
 - **Vitor Gomes Fernandes:** coordenação e organização do repositório.
 - **Gustavo Kenji Noguchi:** pesquisa e conferência dos conceitos técnicos.
 - **Bianca Souza Ferreira:** revisão didática e organização das evidências.
+- **Nathan André Silva:** Revisão geral e confirmação de entrega.
 
 A divisão é uma sugestão; os três integrantes devem participar e registrar contribuições identificáveis em suas próprias contas.
 
@@ -32,4 +34,4 @@ Este repositório está público. Qualquer pessoa pode visualizar seu conteúdo.
 
 Os arquivos deste repositório constituem o material-base. Convites aceitos, contribuições individuais, commits, revisão, pull request e merge só devem ser marcados como concluídos depois de realizados e conferidos no GitHub. As evidências devem ser capturas reais feitas pelo grupo.
 
-**Professora:** o enunciado indica o perfil [@elianeribeiro](https://github.com/elianeribeiro); confirmem o perfil correto e o acesso antes da entrega.
+**Professora:** o enunciado indica o perfil [@elianeribeiro](https://github.com/elianeribeiro).
