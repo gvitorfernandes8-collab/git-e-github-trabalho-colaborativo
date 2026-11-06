@@ -1,7 +1,7 @@
 # Registro de uso da inteligência artificial
 
 **Projeto:** Cartilha digital — primeiros passos com Git e GitHub.  
-**Grupo:** Vitor Gomes Fernandes, Gustavo Kenji Noguchi e Bianca Souza Ferreira.  
+**Grupo:** Vitor Gomes Fernandes, Gustavo Kenji Noguchi, Bianca Souza Ferreira, Matheus Augusto Batista da Silva e Nathan André Silva.  
 **Ferramenta:** ChatGPT (OpenAI).  
 **Data de preparação:** 6 de novembro de 2026.
 
