@@ -24,8 +24,7 @@
 - **Gustavo Kenji Noguchi:** pesquisa e conferência dos conceitos técnicos.
 - **Bianca Souza Ferreira:** revisão didática e organização das evidências.
 - **Nathan André Silva:** Revisão geral e confirmação de entrega.
-
-A divisão é uma sugestão; os três integrantes devem participar e registrar contribuições identificáveis em suas próprias contas.
+- **Matheus Augusto Batista da Silva Revisão de pull request e auxílio no merge
 
 ## Importante sobre a visibilidade
 
