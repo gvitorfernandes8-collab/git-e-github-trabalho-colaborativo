@@ -2,8 +2,7 @@
 
 **Grupo:** Vitor Gomes Fernandes, Gustavo Kenji Noguchi e Bianca Souza Ferreira.  
 **Repositório:** https://github.com/gvitorfernandes8-collab/git-e-github-trabalho-colaborativo  
-**Data da prática:** [preencher após executar]  
-**Visibilidade:** Público (confirmado na criação do repositório).
+**Data da prática:** 06/11/2026
 
 ## Objetivo
 
@@ -16,60 +15,28 @@ Cada integrante deve abrir o repositório pela própria conta e confirmar se con
 | Integrante | Usuário GitHub | Convite aceito? | Conseguiu abrir/editar? |
 |---|---|---|---|
 | Vitor Gomes Fernandes | gvitorfernandes8-collab | Proprietário | [testar] |
-| Gustavo Kenji Noguchi | [preencher] | [sim/não] | [sim/não] |
-| Bianca Souza Ferreira | [preencher] | [sim/não] | [sim/não] |
-| Professora (@elianeribeiro) | [confirmar perfil] | [sim/não/não enviado] | [sim/não/não testado] |
+| Gustavo Kenji Noguchi | [preencher] | [sim] | [sim] |
+| Bianca Souza Ferreira | [preencher] | [sim] | [sim] |
+| Professora (@elianeribeiro) | [sim] | [sim] | [sim] |
 
-## 2. Contribuição individual com commit
-
-Cada pessoa deve acrescentar uma dica útil sobre GitHub a este arquivo e registrar um commit com mensagem clara. Façam as edições em sequência para evitar sobrescrever mudanças.
-
-### Dica do Vitor
-
-[Inserir dica realizada.]  
-**Mensagem do commit:** [preencher]  
-**Link do commit:** [colar URL]
-
-### Dica do Gustavo
-
-[Inserir dica realizada.]  
-**Mensagem do commit:** [preencher]  
-**Link do commit:** [colar URL]
-
-### Dica da Bianca
-
-[Inserir dica realizada.]  
-**Mensagem do commit:** [preencher]  
-**Link do commit:** [colar URL]
-
-## 3. Histórico
+## 2. Histórico
 
 **URL do histórico:** [colar URL]  
 **O histórico identificou corretamente os três autores?** [responder]  
 **Observações:** [preencher]
 
-## 4. Branch, pull request e merge
+## 3. Branch, pull request e merge
 
 Fluxo sugerido: Gustavo cria `melhoria-guia` a partir de `main`, melhora uma dica neste arquivo e registra um commit. Em seguida, abre um pull request para `main`. Bianca revisa e comenta. Depois dos ajustes, Vitor ou outro integrante autorizado faz o merge e confere a alteração em `main`.
 
-**Nome da branch:** [preencher]  
-**URL do pull request:** [colar URL]  
-**Quem revisou:** [preencher]  
-**Comentário de revisão:** [resumir]  
-**Merge realizado?** [sim/não — explicar se não]  
-**URL do commit de merge ou registro equivalente:** [colar URL]  
-**A alteração aparece em `main`?** [sim/não]
+**Nome da branch:** [guia-melhoria]  
+**Quem revisou:** [Bianca Souza]  
+**Comentário de revisão:** [pull request certeiro e eficiente]  
+**Merge realizado?** [sim]   
+**A alteração aparece em `main`?** [sim]
 
-## 5. Dificuldades e soluções testadas
 
-| Dificuldade real | Como investigaram | Solução testada | Resultado |
-|---|---|---|---|
-| [preencher] | [preencher] | [preencher] | [preencher] |
-| [preencher] | [preencher] | [preencher] | [preencher] |
-
-Não registrem dificuldades hipotéticas como se tivessem ocorrido. Se tudo funcionou, descrevam uma dúvida real e como foi resolvida.
-
-## 6. Reflexão final
+## 4. Reflexão final
 
 - Todos conseguiram acessar e editar o arquivo? [responder]
 - Como as mudanças chegaram aos colegas? [responder]
@@ -77,7 +44,7 @@ Não registrem dificuldades hipotéticas como se tivessem ocorrido. Se tudo func
 - Qual a diferença prática entre editar diretamente `main` e propor uma mudança por pull request? [responder]
 - O que fariam diferente em uma próxima colaboração? [responder]
 
-## 7. Evidências — adicionar capturas reais em `images/`
+## 5. Evidências — adicionar capturas reais em `images/`
 
 - [ ] `01-repositorio.png` — página do repositório e nome/visibilidade.
 - [ ] `02-colaboradores.png` — integrantes e professora convidados/aceitos; ocultar dados privados.
