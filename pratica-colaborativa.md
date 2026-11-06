@@ -1,6 +1,6 @@
 # Prática colaborativa — Nosso primeiro trabalho no GitHub
 
-**Grupo:** Vitor Gomes Fernandes, Gustavo Kenji Noguti e Bianca Souza Ferreira.  
+**Grupo:** Vitor Gomes Fernandes, Gustavo Kenji Noguti, Bianca Souza Ferreira, Matheus Augusto Batista da Silva e Nathan André Silva.
 **Repositório:** https://github.com/gvitorfernandes8-collab/git-e-github-trabalho-colaborativo  
 **Data da prática:** 06/11/2026
 
@@ -17,6 +17,8 @@ Cada integrante deve abrir o repositório pela própria conta e confirmar se con
 | Vitor Gomes Fernandes | gvitorfernandes8-collab | Proprietário | [testar] |
 | Gustavo Kenji Noguti | [gustavokenjinoguti] | [sim] | [sim] |
 | Bianca Souza Ferreira | [briferreira] | [sim] | [sim] |
+| Matheus Augusto Batista da Silva | [mtaugusto28] | [sim] | [sim] |
+| Nathan André Silva | [CS007Nathan] | [sim] | [sim] |
 | Professora (@elianeribeiro) | [sim] | [sim] | [sim] |
 
 
