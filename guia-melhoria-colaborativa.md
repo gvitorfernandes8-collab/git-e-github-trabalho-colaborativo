@@ -1,18 +1,18 @@
-# Guia prático: melhoria de um projeto com branch e pull request
+# Guia prático: Melhoria de um projeto com branch e pull request
 
-**Público-alvo:** integrantes que já conhecem os conceitos básicos de Git e GitHub.  
-**Objetivo:** executar uma melhoria pequena e rastreável em um repositório compartilhado, usando a interface do GitHub no navegador.
+**Público-alvo:** Integrantes que já conhecem os conceitos básicos de Git e GitHub.  
+**Objetivo:** Executar uma melhoria pequena e rastreável em um repositório compartilhado, usando a interface do GitHub no navegador.
 
-Este guia complementa a [cartilha principal](cartilha.md) e o [roteiro da prática colaborativa](pratica-colaborativa.md). Os passos descrevem o fluxo; os resultados só devem ser registrados depois de serem executados pelas pessoas do grupo.
+Este guia complementa a [cartilha principal](cartilha.md) e o [roteiro da prática colaborativa](pratica-colaborativa.md), é recomendável que os leia primeiro. Os passos descrevem o fluxo; os resultados só devem ser registrados depois de serem executados pelas pessoas do grupo.
 
 ## 1. Antes de começar
 
 Leia a tarefa e defina:
 
-- **Problema:** o que precisa ser corrigido ou melhorado?
-- **Escopo:** quais arquivos realmente precisam mudar?
-- **Resultado esperado:** como outra pessoa poderá conferir que a melhoria ficou correta?
-- **Revisor:** quem fará a leitura independente do pull request?
+- **Problema:** O que precisa ser corrigido ou melhorado?
+- **Escopo:** Quais arquivos realmente precisam mudar?
+- **Resultado esperado:** Como outra pessoa poderá conferir que a melhoria ficou correta?
+- **Revisor:** Quem fará a leitura independente do pull request?
 
 Antes de editar, abra a branch de destino (neste projeto, `main`) e confira se está visualizando a versão mais recente. Evite iniciar uma melhoria baseada em uma cópia antiga do arquivo.
 
@@ -26,7 +26,7 @@ Uma branch separa o trabalho em andamento da versão principal. Para criá-la pe
 4. Escolha a opção para criar a branch a partir de `main`.
 5. Confira o nome exibido no seletor antes de editar qualquer arquivo.
 
-**Regra importante:** confirme a branch selecionada antes de salvar. Se a edição for feita em `main` por engano, pare e converse com o grupo antes de continuar.
+**Regra importante:** Confirme a branch selecionada antes de salvar. Se a edição for feita em `main` por engano, pare e converse com o grupo antes de continuar.
 
 ## 3. Fazer a alteração e registrar o commit
 
@@ -43,11 +43,11 @@ Exemplos de mensagens claras:
 - `docs: esclarece etapas de criação de branch`
 - `fix: corrige link da documentação`
 
-Uma mensagem útil responde: **qual foi a mudança?** Evite textos vagos como `alterações`, `teste` ou `atualização`.
+Uma mensagem útil e clara responde: **Qual foi a mudança?** Evite textos vagos como `alterações`, `teste` ou `atualização`.
 
 ## 4. Abrir um pull request (PR)
 
-O pull request propõe incorporar as alterações da branch de trabalho à branch principal. Ele não realiza o merge automaticamente.
+O pull request propõe incorporar suas alterações da branch de trabalho à branch principal. Ele não realiza o merge automaticamente.
 
 1. Abra a aba **Pull requests**.
 2. Clique em **New pull request**.
@@ -82,11 +82,11 @@ A revisão deve ser feita por outra pessoa, usando a própria conta GitHub. O au
 
 Quem revisa pode:
 
-- verificar se a mudança atende ao objetivo descrito;
-- conferir clareza, ortografia, links e consistência com o restante do material;
-- apontar problemas em linhas específicas;
-- comentar dúvidas ou sugerir ajustes;
-- aprovar quando estiver satisfeito ou solicitar alterações quando encontrar problemas.
+- Verificar se a mudança atende ao objetivo descrito;
+- Conferir clareza, ortografia, links e consistência com o restante do material;
+- Apontar problemas em linhas específicas;
+- Comentar dúvidas ou sugerir ajustes;
+- Aprovar quando estiver satisfeito ou solicitar alterações quando encontrar problemas.
 
 No GitHub, a revisão pode terminar como **Approve**, **Comment** ou **Request changes**. Um comentário não significa aprovação, e uma aprovação não substitui as regras de proteção ou verificações que o repositório eventualmente exigir.
 
