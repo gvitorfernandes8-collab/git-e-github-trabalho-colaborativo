@@ -19,7 +19,7 @@ Cada integrante deve abrir o repositório pela própria conta e confirmar se con
 | Bianca Souza Ferreira | [briferreira] | [sim] | [sim] |
 | Matheus Augusto Batista da Silva | [mtaugusto28] | [sim] | [sim] |
 | Nathan André Silva | [CS007Nathan] | [sim] | [sim] |
-| Professora (@elianeribeiro) | [sim] | [sim] | [sim] |
+| Eliane Ribeiro | [elianeribeiro] | [sim] | [sim] |
 
 
 ## 2. Branch, pull request e merge
