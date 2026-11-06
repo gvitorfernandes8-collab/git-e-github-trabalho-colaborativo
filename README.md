@@ -1,6 +1,6 @@
 # Nosso primeiro trabalho colaborativo no GitHub
 
-**Produto:** cartilha digital para iniciantes  
+**Produto:** Cartilha digital para iniciantes  
 **Grupo:**
 - Vitor Gomes Fernandes
 - Gustavo Kenji Noguchi
@@ -8,7 +8,7 @@
 - Nathan André Silva
 - Matheus Augusto Batista da Silva
 
-**Objetivo:** ensinar uma pessoa iniciante a compreender Git e GitHub e a realizar, pelo navegador, tarefas básicas de criação de repositório, edição de arquivos, commits e colaboração.
+**Objetivo:** Ensinar uma pessoa iniciante a compreender Git e GitHub, para que ela aprenda a realizar tarefas básicas de criação de repositório, edição de arquivos, commits e colaboração pelo navegador.
 
 ## Navegue pelo material
 
@@ -20,11 +20,11 @@
 
 ## Organização sugerida
 
-- **Vitor Gomes Fernandes:** coordenação e organização do repositório.
-- **Gustavo Kenji Noguchi:** pesquisa e conferência dos conceitos técnicos.
-- **Bianca Souza Ferreira:** revisão didática e organização das evidências.
+- **Vitor Gomes Fernandes:** Coordenação e organização do repositório.
+- **Gustavo Kenji Noguchi:** Pesquisa e conferência dos conceitos técnicos.
+- **Bianca Souza Ferreira:** Revisão didática e organização das evidências.
 - **Nathan André Silva:** Revisão geral e confirmação de entrega.
-- **Matheus Augusto Batista da Silva Revisão de pull request e auxílio no merge
+- **Matheus Augusto Batista da Silva: Revisão de pull request e auxílio no merge.
 
 ## Importante sobre a visibilidade
 
@@ -34,6 +34,6 @@ Este repositório está público. Qualquer pessoa pode visualizar seu conteúdo.
 
 Os arquivos deste repositório constituem o material-base. Convites aceitos, contribuições individuais, commits, revisão, pull request e merge só devem ser marcados como concluídos depois de realizados e conferidos no GitHub. As evidências devem ser capturas reais feitas pelo grupo.
 
-**Professora:** o enunciado indica o perfil [@elianeribeiro].
+**Professora:** O enunciado indica o perfil [@elianeribeiro].
 
 Conferido Profa. Eliane Ribeiro
