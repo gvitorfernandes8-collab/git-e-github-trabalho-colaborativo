@@ -175,3 +175,5 @@ Registrem os links do commit e do PR no arquivo [pratica-colaborativa.md](pratic
 - [GitHub Docs — Fazer merge de um pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/merging-a-pull-request)
 
 **Observação:** as telas e os nomes dos botões podem mudar. Quando houver diferença, sigam os avisos apresentados pelo GitHub e confirmem o procedimento na documentação oficial.
+
+Conferido - Eliane Ribeiro
